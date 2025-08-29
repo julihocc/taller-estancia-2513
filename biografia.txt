@@ -1,4 +1,4 @@
-Linus Torvalds (nacido el 28 de diciembre de 1969 en Helsinki, Finlandia) es un programador e ingeniero de software conocido por crear el kernel Linux. Estudió informática en la Universidad de Helsinki, donde empezó el desarrollo de Linux en 1991 como un proyecto personal que rápidamente creció hasta convertirse en la base de numerosos sistemas operativos tipo Unix.
+Linux Torvalds (nacido el 28 de diciembre de 1969 en Helsinki, Finlandia) es un programador e ingeniero de software conocido por crear el kernel Linux. Estudió informática en la Universidad de Helsinki, donde empezó el desarrollo de Linux en 1991 como un proyecto personal que rápidamente creció hasta convertirse en la base de numerosos sistemas operativos tipo Unix.
 
 Torvalds lideró el proyecto del kernel como mantenedor principal, organizando contribuciones mediante listas de correo y revisiones de código. En 2005 diseñó y lanzó Git, un sistema de control de versiones distribuido que hoy es estándar en el desarrollo de software colaborativo.
 
