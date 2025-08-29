@@ -2,4 +2,4 @@ Linux Torvalds (nacido el 28 de diciembre de 1969 en Helsinki, Finlandia) es un 
 
 Torvalds lideró el proyecto del kernel como mantenedor principal, organizando contribuciones mediante listas de correo y revisiones de código. En 2005 diseñó y lanzó Git, un sistema de control de versiones distribuido que hoy es estándar en el desarrollo de software colaborativo.
 
-Su trabajo ha tenido un impacto profundo en el software libre y de código abierto, y ha sido reconocido con varios premios internacionales, entre ellos el Premio a la Tecnología del Milenio en 2012. Conocido por su enfoque pragmático y directo, Torvalds sigue influyendo en la evolución del kernel Linux y en las prácticas modernas de desarrollo.
+Su invento ha tenido un impacto profundo en el software libre y de código abierto, y ha sido reconocido con varios premios internacionales, entre ellos el Premio a la Tecnología del Milenio en 2012. Conocido por su enfoque pragmático y directo, Torvalds sigue influyendo en la evolución del kernel Linux y en las prácticas modernas de desarrollo.
